@@ -1,0 +1,9 @@
+Well Name,Observation Type,UTM Zone,X Coordinate (UTM m E),Y Coordinate (UTM m N),Land Surf Elev (m above WGS84 Ellipsoid),Instrument Depth (m below Land Surface),Obs Start Year (UTC),Obs Start Month (UTC),Obs Start Day (UTC),Obs Start Hour (UTC),Obs Start Minute (UTC),Obs Start Second (UTC),Obs End Year (UTC),Obs End Month (UTC),Obs End Day (UTC),Obs End Hour (UTC),Obs End Minute (UTC),Obs End Second (UTC)
+56A-1,Downhole (Kuster),11 S,327857.74,4407556.31,1227.87,213.36,2016,3,11,22,24,0,2016,4,4,15,17,0
+81B-1,Cap Tubing (MadgeTek),11 S,328527.01,4408432.02,1246.05,152.40,2016,3,4,22,22,42,2016,4,1,20,13,48
+SP-2,Cap Tubing (MadgeTek),11 S,328126.29,4407627.97,1236.07,213.36,2015,12,2,17,49,12,2016,4,1,18,33,42
+18-1,Cap Tubing (Manual),11 S,327024.73,4407032.58,1223.50,361.49,,,,,,,,,,,,
+27-1,Cap Tubing (Manual),11 S,327254.25,4407205.19,1222.00,423.67,,,,,,,,,,,,
+47C-1,Cap Tubing (Manual),11 S,327745.26,4407308.58,1227.00,362.71,,,,,,,,,,,,
+48A-1,Cap Tubing (Manual),11 S,327703.86,4407181.58,1226.40,289.56,,,,,,,,,,,,
+82A-11,Cap Tubing (Manual),11 S,326904.91,4406708.46,1220.59,368.81,,,,,,,,,,,,
